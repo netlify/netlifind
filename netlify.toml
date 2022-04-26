@@ -1,0 +1,7 @@
+[build]
+command = ""
+publish = "public"
+
+[[edge_functions]]
+function = "geo"
+path = "/"
